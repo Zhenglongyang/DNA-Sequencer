@@ -1,2 +1,2 @@
 # DNA-Sequencer
- A DNA Sequencer to find Cycles withing DNA strands
+ A DNA Sequencer to find Cycles within DNA strands
